@@ -1,0 +1,33 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+.paragrahp {
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+.box {
+  border-radius: 10px;
+  padding: 2em;
+  margin: 5em auto;
+  width: 50%;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.175);
+}
+.w-100{
+  width: 100%;
+
+}
+.button {
+  padding: 10px;
+
+}
+.text-center{
+ text-align: center;
+}
+
